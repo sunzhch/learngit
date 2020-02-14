@@ -1,1 +1,3 @@
 git track changes;
+
+git commit track changes;
